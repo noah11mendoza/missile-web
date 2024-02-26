@@ -139,3 +139,9 @@ a:hover {
 .table{
   width: 100%;
 }
+th {
+  text-align:left;
+}
+tbody > tr:nth-child(odd) {
+  background-color: #f0f0f0
+}
